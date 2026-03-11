@@ -95,7 +95,7 @@ class LokitPatidar:
 
 <div align="center">
 
-[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-7C3AED?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-7C3AED?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1ui_lEbhMszPTQG4EvMSMR9V-MZfAtGQw/view?usp=sharing)
 
 </div>
 
@@ -105,7 +105,7 @@ class LokitPatidar:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lokit_Patidar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Lokit-Patidar1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lokit_Patidar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokit-patidar/)
 [![GitHub](https://img.shields.io/badge/GitHub-lokit--patidar1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lokit-patidar1)
 [![Email](https://img.shields.io/badge/Email-lokitpatidar17@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokitpatidar17@gmail.com)
 
