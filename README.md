@@ -72,7 +72,7 @@ class LokitPatidar:
 
 <div align="center">
 
-[![TalentScout](https://github-readme-stats.vercel.app/api/pin/?username=lokit-patidar1&repo=TalentScout-AI-Hiring-Assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/lokit-patidar1/TalentScout-AI-Hiring-Assistant)
+[![TalentScout](https://github-readme-stats.vercel.app/api/pin/?username=Lokit-Patidar1&repo=TalentScout_Hiring_Assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/Lokit-Patidar1/TalentScout_Hiring_Assistant)
 [![Automated ML Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=lokit-patidar1&repo=Automated-ML-Pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/lokit-patidar1/Automated-ML-Pipeline)
 
 </div>
