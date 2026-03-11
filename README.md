@@ -70,70 +70,12 @@ class LokitPatidar:
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🧑‍💼 TalentScout – GenAI Hiring Assistant
-> Automated end-to-end candidate screening powered by Google Gemini
+[![TalentScout](https://github-readme-stats.vercel.app/api/pin/?username=lokit-patidar1&repo=TalentScout-AI-Hiring-Assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/lokit-patidar1/TalentScout-AI-Hiring-Assistant)
+[![Automated ML Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=lokit-patidar1&repo=Automated-ML-Pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/lokit-patidar1/Automated-ML-Pipeline)
 
-- 🎯 Reduced recruiter workload by **70%**
-- 📊 Analyzed **5,000+** candidate responses for sentiment signals
-- 🔄 Processed **1,200+** structured candidate profiles
-- 💬 Achieved **2.3× higher** session completion with conversational AI
-
-**Tech:** `Python` `Streamlit` `Gemini API` `TextBlob` `CSV`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/lokit-patidar1)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Automated ML Pipeline
-> End-to-end AutoML platform with explainability and profiling
-
-- ⚡ Cut model development time by **55%**
-- 📁 Processed datasets up to **500K rows**
-- 🔍 Automated profiling across **10+** datasets
-- 📈 Improved model selection confidence by **40%**
-
-**Tech:** `Python` `Streamlit` `Scikit-learn` `SHAP` `YData Profiling`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/lokit-patidar1/Automated-ML-Pipeline)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🕵️ AI Job Search Agent
-> Intelligent agent to automate and personalize job search workflows
-
-- 🤖 LLM-powered job matching and outreach automation
-- 📝 Resume parsing and role-fit scoring
-- 🔗 LangChain-based agentic pipeline
-
-**Tech:** `Python` `LangChain` `LLM APIs` `Streamlit`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/lokit-patidar1)
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 Resume Analyzer + Job Role Recommender
-> AI-powered tool to match resumes with suitable job roles using NLP
-
-- 🔍 NLP-driven skill extraction and gap analysis
-- 🎯 Role recommendation with confidence scoring
-- 📊 Uses RAG for dynamic JD matching
-
-**Tech:** `Python` `HuggingFace` `RAG` `LangChain` `Streamlit`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/lokit-patidar1)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -146,31 +88,6 @@ class LokitPatidar:
 | 📜 **Deloitte Data Analytics Job Simulation** — Forage | 2024 |
 
 > 💡 Amazon ML Summer School: Completed **15+ ML & NLP problem statements**, built models on **100K+ record datasets**, and achieved up to **18% improvement** in predictive performance via metric-driven benchmarking.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lokit-patidar1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lokit-patidar1&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokit-patidar1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" width="40%"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Lokit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokit-patidar1&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)
-
-</div>
 
 ---
 
