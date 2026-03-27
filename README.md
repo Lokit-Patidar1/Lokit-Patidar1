@@ -70,12 +70,41 @@ class LokitPatidar:
 
 ## 🚀 Featured Projects
 
-<div align="center">
+---
 
-[![TalentScout](https://github-readme-stats.vercel.app/api/pin/?username=Lokit-Patidar1&repo=TalentScout_Hiring_Assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/Lokit-Patidar1/TalentScout_Hiring_Assistant)
-[![Automated ML Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=lokit-patidar1&repo=Automated-ML-Pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/lokit-patidar1/Automated-ML-Pipeline)
+### 🤖 TalentScout — AI Hiring Assistant
 
-</div>
+> 🧠 LLM-powered intelligent recruitment system that automates candidate screening & evaluation.
+
+🔗 **Live Repo:** https://github.com/Lokit-Patidar1/TalentScout_Hiring_Assistant  
+
+#### ⚡ Highlights
+- 🚀 Automated end-to-end candidate screening workflows (↓ hiring time by 70%)
+- 🎯 Adaptive skill-based assessments using LLM-driven question generation
+- 💬 Conversational AI interface boosting engagement (2.3× completion rate)
+- 📊 Sentiment analysis on 5,000+ responses for early dropout detection
+- 📁 Structured processing of 1,200+ candidate profiles
+
+#### 🛠️ Tech Stack
+`Python` • `LangChain` • `Gemini` • `FAISS` • `Streamlit` • `NLP`
+
+---
+
+### ⚙️ Automated ML Pipeline
+
+> 🔄 End-to-end machine learning pipeline for scalable model training, evaluation, and deployment.
+
+🔗 **Live Repo:** https://github.com/Lokit-Patidar1/Automated-ML-Pipeline  
+
+#### ⚡ Highlights
+- 🔁 Fully automated ML workflow (data → preprocessing → training → evaluation)
+- 📊 Handles large-scale datasets with optimized processing
+- 📈 Improved model performance by 18% using tuning & feature engineering
+- 🧪 Modular architecture for easy experimentation
+- 📦 Reusable components for production-ready ML systems
+
+#### 🛠️ Tech Stack
+`Python` • `Scikit-learn` • `Pandas` • `NumPy` • `MLflow` • `Pipeline Design`
 
 ---
 
